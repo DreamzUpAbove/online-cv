@@ -8,67 +8,68 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ragunath Chandrasekharan
+    tagline: Quantum Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ragunath1729@gmail.com
+    phone: +44-7442304524
+    timezone: United Kingdom/British Summer Time
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: dreamzupabove.github.io/online-cv/
+    linkedin: www.linkedin.com/in/ragunath-chandrasekharan
+    xing: 
+    github: dreamzupabove
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Malayalam
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Hindi
+          level: Professional
+          
+        - idiom: Hindi
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: TED Talks
           link:
 
-        - item: Snowboarding
+        - item: Volunteering or Mentoring
           link:
 
-        - item: Cooking
+        - item: Reading books
+          link:
+          
+        - item: Stargazing
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Software Architect and Quantum Computing Enthusiast with a decade of expertise in designing and developing high-performance applications. Proficient in implementing cutting-edge quantum technologies, including Molecular Hamiltonian, Ising models, and Graph Neural Networks using PennyLane. Demonstrated contributions to Open-Source Quantum Software Projects (QOSF). Skilled in quantum algorithm research, quantum circuit design, and hardware optimization. Utilizes error correction and mitigation techniques to enhance quantum hardware performance. Possesses strong knowledge of cryptographic modules such as AES and RSA, along with extensive experience in Software Development Life Cycle and Agile methodologies.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: Coventry University, United Kingdom
+        time: 2022 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +78,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Information Technology, B-Tech
+        university: Mahatma Gandhi University, Kottayam
+        time: 2008 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,85 +93,101 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Software Engineer
+        time: Oct 2021 - July 2022
+        company: Maveric Systems, Bengaluru (client Standard Chartered bank)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+         As a Senior Lead Software Engineer, I hold a pivotal role in providing advanced technical leadership and guidance to a team of skilled software engineers. My primary responsibilities encompass overseeing the design, development, and maintenance of mobile applications, ensuring they meet the highest industry standards and deliver exceptional user experiences.
+            - Provide unparalleled technical leadership and guidance to a proficient team of software engineers, fostering their professional growth and development.
+            - Lead the conceptualization, design, development, and ongoing maintenance of innovative mobile applications, keeping them at the forefront of technology.
+            - A strategic role in making architectural decisions, shaping the software's structural integrity, scalability, and performance.
+            - Champion adherence to coding standards and best practices, maintaining a codebase that is robust, efficient, and sustainable.
+            - Collaborate seamlessly with team members, fostering a culture of collaboration, knowledge sharing, and continuous improvement.
+            - Mentor and support junior engineers, cultivating their skills and ensuring the team's collective success.
+            - Engage closely with project managers to define project timelines, milestones, and deliverables, ensuring the alignment of technical efforts with organizational goals.
+            - Develop and maintain comprehensive technical documentation, ensuring transparency and knowledge continuity across the team.
+      - role: Lead Software Engineer
+        time: Sept 2017 - Sept 2021
+        company: UST Global, Cochin
+        details: |
+          As a Lead Software Engineer, responsible for indesigning and developing high-performance programming systems. My expertise extends to conducting in-depth systems analysis, recommending policy and procedure enhancements, and ensuring superior system performance.
+            - Analyze, design, coordinate, and supervise the development of software systems, serving as the foundation for resolving information processing challenges.
+            - Lead estimation, design, and development efforts across various modules, driving project success and innovation.
+            - Undertake the review and revitalization of legacy code, optimizing its functionality and efficiency.
+            - Spearhead the review and maintenance of SVN repositories, ensuring version control and code management.
+            - Translate system specifications into task specifications, providing clear guidance to junior programmers for task execution.
+            - Develop and maintain comprehensive technical documentation, fostering project transparency and knowledge sharing.
+            - Lead a team of software engineers, providing technical leadership, mentoring, and guidance to ensure project success and meet organizational objectives.
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: Dec 2016 - Jun 2017
+        company: Wipro Technologies (payroll with AOHR, Hyderabad)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Senior Software Engineer with a wealth of experience in designing and developing high-performance programming systems. Proficient in conducting comprehensive systems analysis, recommending policy and procedure enhancements, and ensuring system optimization.
+            - Conduct static code analysis and facilitate code reviews, ensuring code quality and adherence to best practices.
+            - Lead the estimation, design, and development of various system modules, driving project success.
+            - Spearhead continuous integration efforts, overseeing tools like Jira, Jenkins, and Git repositories for streamlined development.- Translate system specifications into task specifications, guiding junior programmers in task execution.
+            - Demonstrate expertise in troubleshooting and resolving complex technical issues and bugs, ensuring system reliability.
+            - Dedicate efforts to optimizing system performance and enhancing user experiences.
+            - Develop and maintain comprehensive technical documentation to support project transparency and knowledge sharing.
+      - role: Senior Android Developer     
+        time: Nov 2014  - Dec 2016
+        company: SOD Technologies Private Limited, Cochin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Design and develop programming systems making specific determinations about system performance. Improves operations by conducting systems analysis; recommending changes in policies and procedures.
+            - Analyze, design, coordinate and supervise the development of software systems to form a basis for the solution of information processing problems.
+            - Estimation, design, and development of various modules.
+            - Review and repair legacy code.
+            - Analyze system specifications and translate system requirements to task specifications for junior programmers.
+
+      - role: Junior Android Developer
+        time: Jan 2014  - Nov 2014
+        company: Mobtecnica private Ltd, Cochin
+        details: |
+          Junior Android Developer with a solid grasp of Object-Oriented Programming (OOP) concepts, dedicated to crafting user-centric and scalable applications with rich features. Proficient in coding, collaborating with cross-functional teams, and optimizing user experiences.
+            - Actively participated in the coding phase of projects, contributing to the development of Android applications.
+            - Collaborated effectively with other project teams, ensuring seamless integration and alignment with project objectives.
+            - Successfully implemented orientation handling and ensured support for diverse screen sizes, enhancing the app's adaptability and user experience.
+            - Proficiently managed the consumption of RESTful web services, facilitating efficient content retrieval from external web servers.
+
+      - role: Junior Software Developer
+        time: Jun 2012 - Dec 2013
+        company: Safe Technologies private Ltd, Palakkad
+        details: |
+          As a junior Software Developer with a strong foundation in Object-Oriented Programming (OOP) concepts, user-oriented design, and scalable application development. Committed to creating feature-rich and user-friendly applications.
+            - Proficient in Android application development, focusing on user-friendliness.
+            - Responsible for seamlessly integrating lessons from the internal server, ensuring the application's flexibility to accommodate updates at any time.
+            - Successfully implemented orientation handling and ensured support for various screen sizes, enhancing the app's adaptability.
+            - Proficient in consuming RESTful web services to fetch content from external web servers, contributing to efficient data retrieval.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Qiskit Global Summer School 2023- Theory to Implementation
+          start: 2023
+          end: NA
+          organization: IBM Quantum
+          credentialid: 111-222
+          credentialurl: https://qiskit.org/events/summer-school-2023/
+          credentialname: IBM Quantum 
+          details: |
+            I completed the Qiskit Global Summer School 2023 - Theory to Implementation certification, which encompassed five labs. 
+            In Lab 1, I explored quantum states using Qiskit, mastering deterministic, probabilistic, and unitary operations. 
+            Lab 2 introduced entangled qubits, challenging me to sample quasi-probability distributions and estimate observables while disproving local hidden variable theories. 
+            In Lab 3, I implemented Quantum Phase Estimation and Shor's factoring algorithm, fine-tuning qubit counts and running them on real hardware. 
+            Lab 4 showcased the Iterative Phase Estimation algorithm on an IBM quantum processor, merging theory and practicality. 
+            Finally, Lab 5 delved into error mitigation with Qiskit Runtime, enhancing my quantum journey's real-world dimension.
+        - name: Introduction to Quantum Computing Course
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end: NA
+          organization: The Coding School (qubitxqubit)
+          credentialid: 
+          credentialurl: https://www.qubitbyqubit.org/
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+            The "Introduction to Quantum Computing Course" offered by The Coding School in collaboration with IBM provides a comprehensive introduction to the fascinating field of quantum computing. 
+            Throughout this course, students will gain a strong foundation in quantum computing principles, quantum mechanics, and quantum programming using IBM's Qiskit framework. 
+            The curriculum covers key topics such as quantum gates, quantum circuits, quantum algorithms, and quantum error correction. Participants will have the opportunity to work on hands-on coding projects, 
+            explore real quantum hardware, and collaborate with a community of learners and experts.
 projects:
     title: Projects
     intro: >
@@ -201,65 +218,51 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My interest in quantum open-source environments stems from a passion for collaborative innovation in the quantum computing field. 
+      I'm enthusiastic about contributing to open-source projects like Qiskit and QOSF to actively participate in the development of quantum software and algorithms. 
+      These platforms provide a unique space for knowledge sharing, experimentation, and collective problem-solving, allowing me to leverage my skills and contribute to the quantum community's growth. 
+      I'm excited to continue making meaningful contributions and learning from the brilliant minds within these open-source ecosystems.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PennyLaneAI
+        link: "https://github.com/PennyLaneAI/qml"
+        tagline: "Introductory materials on Quantum Machine Learning and other quantum computing topics, as well as Python code demos using PennyLane, a cross-platform Python library for differentiable programming of quantum computers."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Unitary Fund
+        link: "https://github.com/unitaryfund"
+        tagline: "Mitiq is a Python toolkit for implementing error mitigation techniques on quantum computers."
 
 publications:
-    title: Publications
+    title: Volunteering 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Passionate about volunteering, I am committed to making a positive impact on the community and contributing to causes that align with my values. 
+      My volunteer experiences have enriched my life and allowed me to develop valuable skills while giving back to society. 
+      I am always eager to take on new opportunities to make a difference and be a part of meaningful projects.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Make A Difference (MAD)
+        link: "https://makeadiff.in/"
+        authors: Make A Difference (MAD) is an Indian non-profit organization dedicated to improving the lives of children in orphanages and shelters across India. MAD operates in 23 cities, working with nearly 3,460 children in 67 shelter homes. They leverage a fellow-managed volunteering model with 4,255 young participants. Jithin C Nedumala currently leads MAD, which is registered in Cochin, with its core team situated in Bangalore, and operations spanning over 24 Indian cities.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java, Kotlin
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: PennyLane
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Qskit
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Google Cirq
+        level: 80%
+
+      - name: HTML, CSS
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
