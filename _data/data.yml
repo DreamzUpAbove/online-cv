@@ -191,8 +191,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-     Experienced in quantum development using Python, Qiskit, PennyLane, and Cirq, 
-     alongside a strong foundation in mobile web development technologies like Java, Kotlin, HTML, CSS, React, and Vue.js.
+     Experienced in quantum development using Python, Qiskit, PennyLane, and Cirq, alongside a strong foundation in mobile web development technologies like Java, Kotlin, HTML, CSS, React, and Vue.js.
     assignments:
       - title: Variational quantum state diagonalization 
         link: "#hook"
