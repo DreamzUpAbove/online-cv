@@ -42,8 +42,11 @@ sidebar:
         - idiom: Hindi
           level: Professional
           
-        - idiom: Hindi
+        - idiom: Tamil
           level: Professional
+              
+        - idiom: German
+          level: A1
 
     interests:
       title: Interests
@@ -51,10 +54,13 @@ sidebar:
         - item: TED Talks
           link:
 
-        - item: Volunteering or Mentoring
+        - item: Volunteering
           link:
 
-        - item: Reading books
+        - item: Mentoring and Training
+          link:
+          
+        - item: Reading
           link:
           
         - item: Stargazing
@@ -240,20 +246,29 @@ skills:
       - name: Java, Kotlin
         level: 98%
 
-      - name: Python
+      - name: Android
         level: 98%
-
-      - name: PennyLane
-        level: 95%
-
-      - name: Qskit
-        level: 95%
-
-      - name: Google Cirq
+        
+      - name: ReactJs
         level: 80%
 
-      - name: HTML, CSS
+      - name: VueJs
+        level: 85%
+        
+      - name: Python
         level: 90%
+
+      - name: PennyLane
+        level: 90%
+
+      - name: Qskit
+        level: 90%
+
+      - name: Google Cirq
+        level: 90%
+
+      - name: HTML, CSS, JavaScript
+        level: 95%
 
 publications:
     title: References
@@ -268,7 +283,10 @@ publications:
         link: "#"
         authors: Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai
         conference: Project Manager
-
+      - title: BALAMURUGAN SELVAM
+        link: "#"
+        authors: Senior Technical Lead, Capgemini
+        conference: Technical Lead
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
