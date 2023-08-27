@@ -188,6 +188,7 @@ certifications:
             Throughout this course, students will gain a strong foundation in quantum computing principles, quantum mechanics, and quantum programming using IBM's Qiskit framework. 
             The curriculum covers key topics such as quantum gates, quantum circuits, quantum algorithms, and quantum error correction. Participants will have the opportunity to work on hands-on coding projects, 
             explore real quantum hardware, and collaborate with a community of learners and experts.
+            
 projects:
     title: Projects
     intro: >
@@ -201,10 +202,12 @@ projects:
         link: "#hook"
         tagline: "Conducted extensive research on QRNG, utilizing quantum phenomena to generate truly random and unpredictable numbers. Explored limitations of Pseudorandom Number Generators (PRNGs) and vulnerabilities associated with compromised randomness. Developed a deep understanding of trusted device QRNG and the importance of well-characterized sources. Collaborated with interdisciplinary teams to design and implement experimental setups, performing statistical analyses and evaluating qubit condition and stability."
 
-     - title: Yono Lite SBI - Mobile Banking
+      - title: Yono Lite SBI - Mobile Banking
         link: "#hook"
         tagline: "Contributed to the development of YONO LITE SBI, State Bank's user-friendly mobile banking application, enhancing the banking experience for retail customers. This secure app, available on Google Play Store, iOS App store, and Windows marketplace, offers seamless financial and non-financial transactions, including fund transfers, bill payments, and more."
+```
 
+Please make sure that the indentation is consistent, and there are no extra spaces in your YAML file.
 oss:
     title: OSS Contributions
     intro: >
