@@ -275,7 +275,26 @@ projects:
         
       - title: Veena Ramachandran 
         link: "#hook"
-        tagline: "Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai"
+        tagline: "Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai"     
+        
+projects:
+    title: Projects
+    intro: >
+     Experienced in quantum development using Python, Qiskit, PennyLane, and Cirq, 
+     alongside a strong foundation in mobile web development technologies like Java, Kotlin, HTML, CSS, React, and Vue.js.
+    assignments:
+      - title: Variational quantum state diagonalization 
+        link: "#hook"
+        tagline: "Variational hybrid quantum-classical algorithms are promising candidates for near-term implementation on quantum computers. In these algorithms, a quantum computer evaluates the cost of a gate sequence (with speedup over classical cost evaluation), and a classical computer uses this information to adjust the parameters of the gate sequence."
+        
+      - title: Quantum Random Number Generator (University Project)
+        link: "#hook"
+        tagline: "Conducted extensive research on QRNG, utilizing quantum phenomena to generate truly random and unpredictable numbers. Explored limitations of Pseudorandom Number Generators (PRNGs) and vulnerabilities associated with compromised randomness. Developed a deep understanding of trusted device QRNG and the importance of well-characterized sources. Collaborated with interdisciplinary teams to design and implement experimental setups, performing statistical analyses and evaluating qubit condition and stability."
+
+     - title: Yono Lite SBI - Mobile Banking
+        link: "#hook"
+        tagline: "Contributed to the development of YONO LITE SBI, State Bank's user-friendly mobile banking application, enhancing the banking experience for retail customers. This secure app, available on Google Play Store, iOS App store, and Windows marketplace, offers seamless financial and non-financial transactions, including fund transfers, bill payments, and more.""
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
