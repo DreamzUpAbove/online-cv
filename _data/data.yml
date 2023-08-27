@@ -257,17 +257,18 @@ skills:
 
 publications:
     title: References
-    intro: |
-        Contact details for references are available upon request, showcasing my work excellence and professional relationships, as affirmed by both direct clients and managers. 
+    intro: >
+        Contact details for references are available upon request, showcasing my work excellence and professional relationships, as affirmed by both direct clients and managers.
     papers:
       - title: Kishor Eluri Babu
         link: "#"
-        authors: Cheif Manager Systems (IT) Internet Banking, State bank of India
+        authors: Cheif Manager Systems (IT) Internet Banking, State Bank of India
         conference: Client Manager
-     - title: Veena Ramachandran 
+      - title: Veena Ramachandran
         link: "#"
         authors: Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai
         conference: Project Manager
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
