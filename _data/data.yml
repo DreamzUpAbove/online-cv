@@ -206,7 +206,6 @@ projects:
         link: "#hook"
         tagline: "Contributed to the development of YONO LITE SBI, State Bank's user-friendly mobile banking application, enhancing the banking experience for retail customers. This secure app, available on Google Play Store, iOS App store, and Windows marketplace, offers seamless financial and non-financial transactions, including fund transfers, bill payments, and more."
 
-Please make sure that the indentation is consistent, and there are no extra spaces in your YAML file.
 oss:
     title: OSS Contributions
     intro: >
