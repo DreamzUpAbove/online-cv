@@ -271,15 +271,11 @@ projects:
     assignments:
       - title: Kishor Eluri Babu 
         link: "#hook"
-        tagline: "CHEIF manager systems IT internet banking, State bank of India"
-    assignments:
+        tagline: "Cheif Manager Systems (IT) Internet Banking, State bank of India"
+        
       - title: Veena Ramachandran 
         link: "#hook"
         tagline: "Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai"
-    assignments:
-      - title: Kishor Eluri Babu 
-        link: "#hook"
-        tagline: "CHEIF manager systems IT internet banking, State bank of India"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
