@@ -263,6 +263,20 @@ skills:
 
       - name: HTML, CSS
         level: 90%
+        
+projects:
+    title: References
+    intro: >
+     Contact details for references are available upon request, showcasing my work excellence and professional relationships, as affirmed by both direct clients and managers. 
+    assignments:
+      - title: Kishor Eluri Babu 
+        link: "#hook"
+        tagline: "CHEIF manager systems IT internet banking, State bank of India"
+    assignments:
+      - title: Veena Ramachandran 
+        link: "#hook"
+        tagline: "Department Head Automotive and Farm Equipment Business, Mahindra SDVC Kovai"
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
