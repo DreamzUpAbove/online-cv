@@ -287,6 +287,10 @@ publications:
         link: "#"
         authors: Senior Technical Lead, Capgemini
         conference: Technical Lead
+      - title: Mark Elshaw
+        link: "#"
+        authors: Senior Lecturer in Computer Science, Coventry University
+        conference: Research Project Supervisor
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
